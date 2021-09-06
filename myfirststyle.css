@@ -1,0 +1,27 @@
+/* This is a CSS comment */
+
+body {
+  background-color: beige;
+  max-width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  font-family: Arial;
+}
+
+p {
+  line-height: 150%;
+  font-size: large;
+}
+
+button {
+  padding: 2%;
+  font-size: large;
+  background-color: chocolate;
+  color: white;
+  border: none;
+}
+
+button:hover{
+  background-color: darkorange;
+}
