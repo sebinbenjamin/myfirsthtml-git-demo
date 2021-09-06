@@ -1,4 +1,4 @@
-let myColor = "Pink";
+let myColor = "Brown";
 const favColor = "You like " + myColor;
 // document.getElementsByTagName('h3')[0].innerHTML = favColor;
 
